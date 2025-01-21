@@ -1,19 +1,19 @@
 # Building a Java Employee Management Application
 
-![image](https://github.com/user-attachments/assets/38f3b9e1-a7a6-47f6-bbc2-7195431b199c)
+## ![image](https://github.com/user-attachments/assets/38f3b9e1-a7a6-47f6-bbc2-7195431b199c)
 
-![image](https://github.com/user-attachments/assets/64a820e1-49cc-42b8-86f9-c31b1c2ef95f)
+## ![image](https://github.com/user-attachments/assets/64a820e1-49cc-42b8-86f9-c31b1c2ef95f)
 The application demonstrates seamless integration with a MySQL database, 
 allowing for persistent storage and retrieval of employee data.
 
-![image](https://github.com/user-attachments/assets/880694ab-7208-4fbe-8fb5-3fb20ac3fe85)
+## ![image](https://github.com/user-attachments/assets/880694ab-7208-4fbe-8fb5-3fb20ac3fe85)
 The core functionality revolves around CRUD operations (Create, Read, Update, Delete) 
 for employee records, ensuring efficient data management
 
-![image](https://github.com/user-attachments/assets/86849af0-6ffe-4e53-9046-ce789bcb9ce5)
+## ![image](https://github.com/user-attachments/assets/86849af0-6ffe-4e53-9046-ce789bcb9ce5)
 The application goes beyond database interaction by enabling file import and export of employee data, enhancing data management capabilities.
 
-![image](https://github.com/user-attachments/assets/dd03dd69-c1cb-4daa-a2b6-fda2247304ed)
+## ![image](https://github.com/user-attachments/assets/dd03dd69-c1cb-4daa-a2b6-fda2247304ed)
 To maintain data integrity, validation mechanisms are implemented to ensure
 the correctness and consistency of employee records.
 
